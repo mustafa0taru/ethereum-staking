@@ -1,6 +1,6 @@
-# Validator Preferences
+# Ethereum Staking Analysis
 
-This report explores validator behavior and staking patterns for the address  
+This report explores staking patterns, rewards and validator behaviour for the address  
 `0xe3c44d4d25172ef2e0cdb9e09189a8ca4ed878f4`.
 ### Live Dashboard  
 Check out the interactive dashboard here:  
